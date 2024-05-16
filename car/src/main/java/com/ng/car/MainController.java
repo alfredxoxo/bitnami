@@ -1,4 +1,4 @@
-package com.tuazon.car;
+package com.ng.car;
 
 import com.google.gson.Gson;
 import org.springframework.beans.factory.annotation.Autowired;

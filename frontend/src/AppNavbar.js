@@ -18,7 +18,7 @@ export default class AppNavbar extends Component {
     render() {
         return <Navbar color="dark" dark expand="md">
             <NavbarBrand tag={Link} to="/">Home</NavbarBrand>
-            <p style={{position: 'absolute', color: 'white', right: 30, top: 16}}>Ranielle Tuazon - IT3A</p>
+            <p style={{position: 'absolute', color: 'white', right: 30, top: 16}}>Alfred Ng - IT3A</p>
         </Navbar>;
     }
 }
